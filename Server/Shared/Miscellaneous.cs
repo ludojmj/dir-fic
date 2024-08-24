@@ -1,6 +1,6 @@
 namespace Server.Shared;
 
-public static class Miscelaneous
+public static class Miscellaneous
 {
     public static void GetStuff(DirectoryInfo directory)
     {
